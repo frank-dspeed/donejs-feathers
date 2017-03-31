@@ -1,5 +1,7 @@
 # donejs-feathers - Full-stack realtime
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/donejs/donejs-feathers.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/feathersjs/donejs-feathers.svg?branch=master)](https://travis-ci.org/feathersjs/donejs-feathers)
 [![npm version](https://badge.fury.io/js/donejs-feathers.svg)](http://badge.fury.io/js/donejs-feathers)
 
